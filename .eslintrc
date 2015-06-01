@@ -1,0 +1,28 @@
+{
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true
+  },
+  "settings": {
+    "ecmascript": 6
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "eqeqeq": 2,
+    "curly": 2,
+    "no-multiple-empty-lines": 2,
+    "no-console": 2,
+    "camelcase": 2,
+    "consistent-this": [2, "self"],
+    "brace-style": [2, "stroustrup"],
+    "eol-last": 2,
+    "comma-spacing": 2,
+    "space-before-function-parentheses": [2, "never"],
+    "strict": [2, "global"],
+    "indent": [2, 2],
+    "no-shadow": 1,
+    "space-before-blocks": 2,
+    "new-cap": 0
+  }
+}
